@@ -15,4 +15,6 @@ Fallback path:
 
 ## Scope
 
-This is the default security guidance for repositories created from this template. A repository may replace it with a more specific policy later.
+This is the default security guidance for repositories created from this service template.
+
+If the repository handles user data, auth flows, credentials, infrastructure access, or production traffic, replace this file with a more specific policy as early as practical.
